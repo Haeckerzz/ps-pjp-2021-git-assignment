@@ -1,0 +1,1 @@
+"inside new_folder_1"
